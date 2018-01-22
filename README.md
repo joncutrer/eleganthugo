@@ -1,10 +1,10 @@
-# Elegant Hugo - A Bootstrap 4 variant of Beautiful Hugo which is a port of Beautiful Jekyll Theme
+# Elegant Hugo - A Bootstrap 4 variant of Beautiful Hugo which is a port of the Beautiful Jekyll Theme
 
 The goal of this theme is to match the layout and style of Beautiful Hugo using Bootstrap 4.
 
 > eleganthugo is currently in development while I convert all styling from bootstrap 3 to bootstrap 4. 
 
-![Beautiful Hugo Theme Screenshot](https://github.com/halogenica/beautifulhugo/blob/master/images/screenshot.png)
+![Elegant Hugo Theme Screenshot](https://github.com/joncutrer/eleganthugo/blob/master/images/screenshot.png)
 
 ## Installation
 
