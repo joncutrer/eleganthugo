@@ -1,0 +1,11 @@
+name = "Elegant Hugo"
+license = "MIT"
+licenselink = "https://github.com/joncutrer/eleganthugo/blob/master/LICENSE"
+description = "A Bootstrap 4 variant of the Beautiful Hugo theme"
+tags = ["blog", "company", "portfolio", "projects", "minimal", "responsive"]
+features = ["blog", "themes", "disqus", "minimal", "responsive", "staticman"]
+min_version = 0.17
+
+[author]
+    name = "joncutrer"
+    homepage = "https://jcutrer.com"
